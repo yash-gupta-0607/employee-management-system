@@ -128,17 +128,6 @@ String password = "your_password";
 http://localhost:8080/EmployeeManagementSystem
 ```
 
-## 📸 Screenshots
-
-### Home Page
-![Home Page](screenshots/home.png)
-
-### Employee List
-![Employee List](screenshots/employee-list.png)
-
-### Add Employee
-![Add Employee](screenshots/add-employee.png)
-
 ## 🎯 Learning Outcomes
 
 - Java Web Development
